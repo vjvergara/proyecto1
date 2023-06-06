@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ec.edu.uce.git.GitApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-06T02:26:20" hostname="DESKTOP-RNROK7E" time="0.75">
+  <properties/>
+  <testcase name="contextLoads()" classname="ec.edu.uce.git.GitApplicationTests" time="0.75"/>
+  <system-out><![CDATA[21:26:19.249 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [ec.edu.uce.git.GitApplicationTests]: GitApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+21:26:19.339 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration ec.edu.uce.git.GitApplication for test class ec.edu.uce.git.GitApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-06-05T21:26:19.790-05:00  INFO 14036 --- [    Test worker] ec.edu.uce.git.GitApplicationTests       : Starting GitApplicationTests using Java 17.0.7 with PID 14036 (started by Javel in D:\PROYECTOS gihub)
+2023-06-05T21:26:19.793-05:00  INFO 14036 --- [    Test worker] ec.edu.uce.git.GitApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2023-06-05T21:26:20.256-05:00  INFO 14036 --- [    Test worker] ec.edu.uce.git.GitApplicationTests       : Started GitApplicationTests in 0.776 seconds (process running for 1.789)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
